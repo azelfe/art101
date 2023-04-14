@@ -7,3 +7,16 @@
     border: solid 1px #888;
     background-color: #DDD8C4;
   }
+  h1 {
+    color: #ff0077;
+    size: 200%;
+  }
+  p{
+    color: #ff5da9;
+    text-indent: 20px;
+    margin-left: 10px;
+  }
+div {
+  border-style: dotted;
+  color: #d78db0;
+}
