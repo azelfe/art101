@@ -10,6 +10,11 @@ body {
 /* we can have rules apply to multiple elements at the same time with commas */
 h1,h2,h3 {
   font-family: sans-serif;
+  color:#ff0a9d
+}
+
+p {
+  color:#ff0a9d
 }
 
 /* and we can have rules that overlap other rules, both take effect */
