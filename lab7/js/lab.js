@@ -14,5 +14,5 @@ function sortUserName() {
     return nameSorted;
 }
 
-document.writeIn("Your name has ben updated.",
-sortUserNamer(), "</br>");
+document.writeln("Here's your sorted name.",
+  sortUserName(), "</br>");
