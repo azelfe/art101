@@ -19,3 +19,8 @@ p,h3 {
 ul {
   color: #ff007b;
 }
+
+.special {
+  font-weight: bold;
+  color: aqua;
+}

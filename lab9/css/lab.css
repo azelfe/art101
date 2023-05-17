@@ -13,6 +13,9 @@ h1,h2 {
     font-size: 200%;
     color: #ff007b;
   }
+p,h3 {
+    color:#ff74b7
+}
 ul {
   color: #ff007b;
 }
