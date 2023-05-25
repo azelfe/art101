@@ -18,7 +18,7 @@ for (var i=1; i<200; i++) {
   if (i % 7 == 0) {
     str += "Boom!";
   }
-   // if a multiple of 7, print boom
+   // if a multiple of 10, print bang
    if (i % 10 == 0) {
     str += "Bang!";
   }
