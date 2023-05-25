@@ -24,3 +24,10 @@ color: #ff007b;
 font-weight: bold;
 color: aqua;
 }
+
+#output {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+  font-size: 100%;
+}
