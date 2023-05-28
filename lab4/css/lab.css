@@ -7,3 +7,7 @@
   border: solid 1px #ff437c;
   background-color: #ffc6e6;
 }
+
+h1, h2, h3 {
+  text-align: center;
+}
